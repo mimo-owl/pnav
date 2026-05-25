@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data & results (large files)
+dataset/0519_house54/
+eval_results/
+analysis/
+
+# OS
+.DS_Store

@@ -1,0 +1,17 @@
+# Core dependencies for VLM evaluation
+google-genai
+openai
+anthropic
+pillow
+python-dotenv
+
+# Required for Qwen (local inference)
+torch
+transformers
+accelerate
+qwen-vl-utils
+
+# Analysis / aggregation
+pandas
+numpy
+matplotlib
